@@ -4,6 +4,8 @@ CAS Applied Data Science final project, University of Bern (2026).
 
 Multi-label binary classification predicting heavy rain and heavy snow events 19-24 hours in advance using hourly meteorological reanalysis data.
 
+Final Report: https://github.com/GilbertBoehme/CAS-ADS-UniBe-Final-Project/blob/main/final_report.pdf
+
 ## Study Area
 
 Single grid point in the canton of Graubunden, Switzerland. Bounding box: 46.46-46.72 N, 9.28-9.46 E at approx. 1500m elevation. This covers the Viamala/Hinterrhein region, including Thusis, Andeer, Zillis, Sufers, Splugen, and Nufenen.
